@@ -1,0 +1,261 @@
+#head{
+    background-color: #31006e;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* padding-left: 20px; */
+    width: 100%;
+    top: 0;
+    position: fixed;
+    /* padding:30px ; */
+    line-height: 24px;
+    box-sizing: border-box;
+    display: block;
+    float: none;
+    /* margin: 20px; */
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+nav{
+ float: right;
+}
+nav a:first-child{
+    color: #eb008c;
+}
+.container {
+    width:80%;
+    margin-right:auto ;
+    margin-left: auto ;
+}
+
+#intro{
+    background-color: #31006e;
+    /* margin-top: 100px; */
+    margin-top: 100px;
+}
+
+
+ small:first-child{
+    color: gray;
+    /* padding-left: 5px */
+    padding-top: 5px;
+    /* padding-bottom: 15px; */
+
+}
+
+h2:nth-child(2){
+    color:#31006f;
+    /* padding: 5px; */
+    padding-top: 10px;
+}
+
+p:nth-child(3){
+    color: #ec24ad;
+    /* padding: 5px; */
+    padding-top: 10px;
+    /* margin: 0px 0px 27px; */
+}
+    #Intro{
+    margin: auto;
+    background-color: #31006e;
+    padding-bottom: 110px;
+    padding-top: 35px;
+    background-image:url(banner-pattern.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+#white-box{
+    background-color: white;
+    width: 50%;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    /* padding-left: 20px; */
+    /* margin-left: 20px; */
+    padding-left: 30px;
+    line-height: 25px;   
+}
+
+#Growing{
+    color: white;
+    /* padding: 20px; */
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-top: 70px;
+    line-height: 40px;
+}
+
+#Body{
+    background-color: white;
+}
+
+#Body{
+    background-image: url(building.png);
+    background-repeat: no-repeat;
+    /* float: right; */
+    background-position: right bottom;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* width:80%;
+    margin-right:auto ;
+    margin-left: auto ;
+     */
+
+}
+.ee{
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-top: 300px;
+    margin-bottom: 300px;
+
+}
+
+#image{
+    background-image: url(parallax-home.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    background-position: center;
+    background-attachment: fixed;
+    /* background- size: cover; */
+   
+}
+    
+.blue{
+    color: #2e3192;
+    line-height: 25px;
+}
+
+#passage{
+    padding-top: 100px;
+    /* padding-left: 10px; */
+    padding-bottom: 40px;
+    line-height: 25px;
+    
+}
+
+#no{
+    /* padding-left: 100px; */
+    padding-bottom: 100px;
+    
+}
+
+#Detail{
+    background-color: #ffffff;
+    background-image: url(join.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 600px;
+
+}
+
+#b{
+    padding-top: 20px;
+}
+
+#c{
+    padding-top: 10px;
+}
+
+#d{
+    padding-top: 30px;
+}
+
+#f{
+    padding-top: 8px;
+    padding-bottom: 30px;
+
+}
+
+.pink{
+    color: #ec08ad;
+    text-align: left;
+}
+#e{
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+
+#box{
+    border: 0.5px solid blue;
+    width:15% ;
+    /* border-radius:10; */
+}
+
+.box{
+    border: 0.5px solid blue;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left:20px ;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 3px;
+
+}
+
+.box :hover{
+    color:red;
+
+}
+
+
+#Footer{
+    background-color: #eaeaea;
+    background-image: url(logo_footer.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 50;
+    
+    
+}
+
+#id{
+    text-align: left;
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+#con{
+    text-align: right;
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+
+.hello{
+    margin: 70px;
+    line-height: 25px;
+    display: flex;
+    /* flex-direction: row; */
+    display: inline-block;
+    /* align-items:f; */
+    padding-top: 30px;
+    float: none;
+    color: black;
+    /* text-align: top; */
+
+
+}
+
+.apple{
+    color:#2e3192;
+    line-height: 60px;;
+}
+
+#orange{
+    line-height: 30px;
+    padding-top: 40px;
+}
+
+
